@@ -9,7 +9,8 @@ const _ = require('lodash');
     }
 
     var getGivenFolderContents = (givenFolderDirectory, givenFileExtension) => {
-        
+        console.log(givenFolderDirectory);
+        console.log(givenFileExtension); 
     }
 
     // writeFile('foo.txt', 'This is content to write.', function(err) {

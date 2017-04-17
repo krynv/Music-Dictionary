@@ -14,4 +14,8 @@ Install dependencies:
 
 Run program: 
 
-    npm start
+    music_folder="[directoryToFolder]" file_format=[chosenFileFormat] npm start
+
+Example:
+
+    music_folder="C:\Users\VK\Desktop\Music" file_format=mp3 npm start
