@@ -1,0 +1,14 @@
+{
+  "name": "music-dictionary",
+  "version": "1.0.0",
+  "description": "Saves all file names of the music files into a given directory",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitaliy Krynytskyy",
+  "license": "ISC",
+  "dependencies": {
+    "write": "^0.3.3"
+  }
+}
