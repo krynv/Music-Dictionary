@@ -9,6 +9,7 @@
   "author": "Vitaliy Krynytskyy",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.4",
     "write": "^0.3.3"
   }
 }
