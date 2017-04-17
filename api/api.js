@@ -10,11 +10,11 @@ const fs = require('fs');
         console.log(givenFileExtension); 
         var file = fs.createWriteStream(`${givenFileExtension}.txt`);
 
-        var getDirectories = function (src, callback) {
+        var getDirectories = (src, callback) => {
             glob(src + '/**/*.' + givenFileExtension, callback);
         };
 
-        getDirectories(givenFolderDirectory, function (err, res) {
+        getDirectories(givenFolderDirectory, (err, res) => {
             if (err) {
                 console.log('Error', err);
             } else {
