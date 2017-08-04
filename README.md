@@ -2,7 +2,8 @@
 
 Allows you to list **all** of the `.fileFormat` files within a given folder. This includes subdirectories.
 
-Make sure to have [NodeJS](https://nodejs.org/) installed
+Make sure to have [NodeJS](https://nodejs.org/) installed. 
+Tested on macOS & Windows.
 
 Clone repo: 
 
