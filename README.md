@@ -6,7 +6,7 @@ Make sure to have [NodeJS](https://nodejs.org/) installed
 
 Clone repo: 
 
-    git clone git@github.com:DEFCONone1/Music-Dictionary.git && cd Music-Dictionary
+    git clone git@github.com:krynv/Music-Dictionary.git && cd Music-Dictionary
 
 Install dependencies:
 
